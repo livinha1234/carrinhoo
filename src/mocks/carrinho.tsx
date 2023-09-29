@@ -12,7 +12,7 @@ const carrinho = {
         nome: "Carrinho de Compras",
         nomeFazenda: "Etec Cidade do Livro",
         descricao: "Uma cesta com produtos selecionados cuidadosamente da fazendo direto para a sua cozinha.",
-        preco: "R$ 40,00",
+        preco: "R$ 50,00",
         botao: "Comprar",
     },
     itens: {
